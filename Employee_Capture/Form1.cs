@@ -29,12 +29,7 @@ namespace Employee_Capture
         public String EmpType;
         public int managerID;
         
-
-        //SqlDataAdapter da;
-        //SqlConnection conn;
-        //String con = "Data Source=(Local); Initial Catalog=new_dashboard; Persist Security Info=True;User id= sa; Password=lbc";
-        //SqlCommand cmd;
-
+        
         public Form1()
         {
             InitializeComponent();
